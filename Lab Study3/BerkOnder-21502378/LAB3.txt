@@ -1,0 +1,5 @@
+Q1 :Best Case: n, Worst Case: n^2
+
+Q2: Best Case: n log n, Worst Case: n log n 
+
+Q3: Best Case: n, Worst Case: n
